@@ -1,4 +1,6 @@
 algoritmo "semnome"
+//  
+//  
 var
    A: real
 inicio

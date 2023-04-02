@@ -1,4 +1,6 @@
 algoritmo "conversor"
+//  
+//  
 var
     angulo, S: real
 inicio
